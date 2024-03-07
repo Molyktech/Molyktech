@@ -8,7 +8,7 @@ I am an ambitious developer with a passion for learning and trying out new thing
 
 * 🌍  I'm based in Nigeria
 * ✉️  You can contact me at [modupeadebayo001@gmail.com](mailto:modupeadebayo001@gmail.com)
-* 🚀  I'm currently working on [building tool for creatives](http://dashboard.wedeydo.com/login) using React, Next.js 13, Next UI library, Cypress, Storybook and some other cool tools like Husky
+* 🚀  I'm currently working on building tools for creatives using React, Next.js 13, Next UI library, Cypress, Storybook and some other cool tools like Husky
 * 🤝  I'm open to collaborating on Projects
 * ⚡  I like to write
 
